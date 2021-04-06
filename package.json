@@ -12,7 +12,7 @@
     "client": "npm start --prefix client",
     "dev": "concurrently \"npm run server\" \"npm run client\""
   },
-  "author": "Brad Traversy",
+  "author": "Utkarsh Shukla",
   "license": "MIT",
   "dependencies": {
     "bcryptjs": "^2.4.3",
